@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, UI/UX
 - 💞️ I’m looking to collaborate on Community Projects 
 - 📫 How to reach me
--  Twitter-www.twitter.com/vnsdude
+-  Twitter-www.twitter.com/adityaramnpathk
 - Instagram - www.instagram.com/adityaramanpathak
 - Linkedin - www.linkedin.com/in/aditya-pathak-4a3659276/
 
